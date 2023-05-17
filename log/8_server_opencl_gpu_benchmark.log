@@ -1,0 +1,87 @@
+.-----------------------------------------------------------------------------.
+|----------------.------------------------------------------------------------|
+| Device ID    0 | Tesla V100S-PCIE-32GB                                      |
+| Device ID    1 | Tesla V100S-PCIE-32GB                                      |
+| Device ID    2 | Tesla V100S-PCIE-32GB                                      |
+|----------------'------------------------------------------------------------|
+|----------------.------------------------------------------------------------|
+| Device ID      | 0                                                          |
+| Device Name    | Tesla V100S-PCIE-32GB                                      |
+| Device Vendor  | NVIDIA Corporation                                         |
+| Device Driver  | 470.86                                                     |
+| OpenCL Version | OpenCL C 1.2                                               |
+| Compute Units  | 80 at 1597 MHz (5120 cores, 16.353 TFLOPs/s)               |
+| Memory, Cache  | 32510 MB, 2560 KB global / 48 KB local                     |
+| Buffer Limits  | 8127 MB global, 64 KB constant                             |
+|----------------'------------------------------------------------------------|
+| Info: OpenCL C code successfully compiled.                                  |
+| FP64  compute                                         6.881 TFLOPs/s (1/2 ) |
+| FP32  compute                                        16.155 TFLOPs/s ( 1x ) |
+| FP16  compute                                          not supported        |
+| INT64 compute                                         1.494  TIOPs/s (1/12) |
+| INT32 compute                                        16.143  TIOPs/s ( 1x ) |
+| INT16 compute                                        13.579  TIOPs/s (2/3 ) |
+| INT8  compute                                        11.824  TIOPs/s (2/3 ) |
+| Memory Bandwidth ( coalesced read      )                        907.54 GB/s |
+| Memory Bandwidth ( coalesced      write)                        983.23 GB/s |
+| Memory Bandwidth (misaligned read      )                        922.42 GB/s |
+| Memory Bandwidth (misaligned      write)                        133.87 GB/s |
+| PCIe   Bandwidth (send                 )                          4.85 GB/s |
+| PCIe   Bandwidth (   receive           )                          4.95 GB/s |
+| PCIe   Bandwidth (        bidirectional)            (Gen3 x16)    4.82 GB/s |
+|-----------------------------------------------------------------------------|
+|----------------.------------------------------------------------------------|
+| Device ID      | 1                                                          |
+| Device Name    | Tesla V100S-PCIE-32GB                                      |
+| Device Vendor  | NVIDIA Corporation                                         |
+| Device Driver  | 470.86                                                     |
+| OpenCL Version | OpenCL C 1.2                                               |
+| Compute Units  | 80 at 1597 MHz (5120 cores, 16.353 TFLOPs/s)               |
+| Memory, Cache  | 32510 MB, 2560 KB global / 48 KB local                     |
+| Buffer Limits  | 8127 MB global, 64 KB constant                             |
+|----------------'------------------------------------------------------------|
+| Info: OpenCL C code successfully compiled.                                  |
+| FP64  compute                                         8.013 TFLOPs/s (1/2 ) |
+| FP32  compute                                        16.163 TFLOPs/s ( 1x ) |
+| FP16  compute                                          not supported        |
+| INT64 compute                                         1.497  TIOPs/s (1/12) |
+| INT32 compute                                        16.149  TIOPs/s ( 1x ) |
+| INT16 compute                                        13.142  TIOPs/s (2/3 ) |
+| INT8  compute                                        11.369  TIOPs/s (2/3 ) |
+| Memory Bandwidth ( coalesced read      )                        906.15 GB/s |
+| Memory Bandwidth ( coalesced      write)                        984.03 GB/s |
+| Memory Bandwidth (misaligned read      )                        922.31 GB/s |
+| Memory Bandwidth (misaligned      write)                        136.70 GB/s |
+| PCIe   Bandwidth (send                 )                          4.84 GB/s |
+| PCIe   Bandwidth (   receive           )                          4.64 GB/s |
+| PCIe   Bandwidth (        bidirectional)            (Gen3 x16)    4.65 GB/s |
+|-----------------------------------------------------------------------------|
+|----------------.------------------------------------------------------------|
+| Device ID      | 2                                                          |
+| Device Name    | Tesla V100S-PCIE-32GB                                      |
+| Device Vendor  | NVIDIA Corporation                                         |
+| Device Driver  | 470.86                                                     |
+| OpenCL Version | OpenCL C 1.2                                               |
+| Compute Units  | 80 at 1597 MHz (5120 cores, 16.353 TFLOPs/s)               |
+| Memory, Cache  | 32510 MB, 2560 KB global / 48 KB local                     |
+| Buffer Limits  | 8127 MB global, 64 KB constant                             |
+|----------------'------------------------------------------------------------|
+| Info: OpenCL C code successfully compiled.                                  |
+| FP64  compute                                         7.632 TFLOPs/s (1/2 ) |
+| FP32  compute                                        16.163 TFLOPs/s ( 1x ) |
+| FP16  compute                                          not supported        |
+| INT64 compute                                         1.495  TIOPs/s (1/12) |
+| INT32 compute                                        16.148  TIOPs/s ( 1x ) |
+| INT16 compute                                        13.154  TIOPs/s (2/3 ) |
+| INT8  compute                                        11.456  TIOPs/s (2/3 ) |
+| Memory Bandwidth ( coalesced read      )                        907.34 GB/s |
+| Memory Bandwidth ( coalesced      write)                        983.42 GB/s |
+| Memory Bandwidth (misaligned read      )                        923.46 GB/s |
+| Memory Bandwidth (misaligned      write)                        135.65 GB/s |
+| PCIe   Bandwidth (send                 )                          4.81 GB/s |
+| PCIe   Bandwidth (   receive           )                          4.58 GB/s |
+| PCIe   Bandwidth (        bidirectional)            (Gen3 x16)    4.57 GB/s |
+|-----------------------------------------------------------------------------|
+|-----------------------------------------------------------------------------|
+| Done. Press Enter to exit.                                                  |
+'-----------------------------------------------------------------------------'
